@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Mon, 09 Aug 2021 17:27:16 at https://www.caseyjbrooks.com/
+(httrack -gKfD https://www.caseyjbrooks.com/ -O /Users/bryanwills/code/portfolios/caseyjbrooks )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:27:16	Warning: 	HTML file (14029 bytes) retransferred due to lack of cache: https://www.caseyjbrooks.com/
+17:27:18	Warning: 	Warning: store text/html without scan: /Users/bryanwills/code/portfolios/caseyjbrooks/index-2.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 1 links scanned, 1 files written (14029 bytes overall) [14337 bytes received at 7168 bytes/sec]
+(No errors, 2 warnings, 0 messages)

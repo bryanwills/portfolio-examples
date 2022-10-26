@@ -1,0 +1,6 @@
+@mixin flexy($horizontal, $vertical, $direction) {
+    display: flex;
+    align-items: $vertical;
+    justify-content: $horizontal;
+    flex-direction: $direction;
+}

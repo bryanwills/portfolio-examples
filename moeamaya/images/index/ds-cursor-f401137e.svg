@@ -1,0 +1,11 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <filter id="blurMe" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+  </filter>
+
+  <path d="M22 46V22H46" stroke="#FCCF00" stroke-width="8" filter="url(#blurMe)" />
+  <path d="M22 22L62 62" stroke="#FCCF00" stroke-width="8" filter="url(#blurMe)" />
+  <path d="M22 46V22H46" stroke="black" stroke-width="2"/>
+  <path d="M22 22L62 62" stroke="black" stroke-width="2"/>
+</svg>

@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:24:32	14029/14029	---MCZ	200	added ('OK')	text/html	etag:%225ae3a83737877d7f2310f047ead8085d-ssl-df%22	https://www.caseyjbrooks.com/	/Users/bryanwills/code/portfolios/caseyjbrooks/www.caseyjbrooks.com/index.html	(from )
+17:24:32	82/82	---M--	200	added ('OK')	text/plain	etag:%22566fcb993be3e4bdca8db32be5dcbbd7-ssl%22	https://www.caseyjbrooks.com/robots.txt		(from )
